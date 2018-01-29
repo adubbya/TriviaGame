@@ -1,0 +1,18 @@
+body {
+  /* Positioning */
+  margin-bottom: 150px;
+
+  /* Typography */
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+  /* Visual */
+  background-image: url("../../assets/images/camera-wallpaper.jpg")
+}
+
+html {
+  min-height: 100%;
+}
+
+.quiz { 
+ background-color: darkgoldenrod;
+}
